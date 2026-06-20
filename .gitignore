@@ -4,3 +4,8 @@ checkpoint/
 
 data/
 *.csv
+
+huggingface/
+
+
+bert-sentiment-covid/
