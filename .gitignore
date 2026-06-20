@@ -9,3 +9,5 @@ huggingface/
 
 
 bert-sentiment-covid/
+
+.DS_Store
